@@ -6,4 +6,4 @@
 |1 |圖片| <img src="images.jpg" width="100" Height="100" />|
 |2 |姓名|田所號二|
 |3 |職稱 |GV演員|
-|3 |任職公司|COAT|
+|4 |任職公司|COAT|
