@@ -22,6 +22,6 @@
 |----:|------|------|
 |組長|蔣宥辰|[組長 github](https://github.com/AllenChiang114514)|
 |組員|毛霆漢|[組員 github]()|
-|組員|李俊緯|[組員 github](https://github.com/d1134111001-collab)|
+|組員|李俊緯|[組員 github](https://github.com/d1134111001-collab/111001)|
 |組員|王廷瑋|[組員 github]()|
 
