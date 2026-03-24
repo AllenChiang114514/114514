@@ -1,7 +1,7 @@
 # 114514
 <H2>一個一個一個的儲存庫<H2>
-<H2>教師:蔡正雄<H2>
-<H2>學號:D1134141046<H2>
+教師:蔡正雄
+學號:D1134141046
 
 | 項次 | 項目 | 內容 |
 |----:|------|------|
@@ -21,7 +21,7 @@
 | C組 | 組員 | 網址 |
 |----:|------|------|
 |組長|蔣宥辰|[組長 github](https://github.com/AllenChiang114514)|
-|組員|毛霆漢|[組員 github](https://github.com/AllenChiang114514)|
-|組員|李俊緯|[組員 github](https://github.com/AllenChiang114514)|
-|組員|王廷瑋|[組員 github](https://github.com/AllenChiang114514)|
+|組員|毛霆漢|[組員 github]()|
+|組員|李俊緯|[組員 github](https://github.com/d1134111001-collab)|
+|組員|王廷瑋|[組員 github]()|
 
